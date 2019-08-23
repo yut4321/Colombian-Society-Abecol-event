@@ -1,0 +1,102 @@
+.timetable{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Ubuntu';
+  padding: 80px;
+  color: #e42c64;
+
+}
+
+h2{
+  text-align: center;
+  font-size: 4rem;
+  color: #fff;
+}
+
+h3{
+  text-align: center;
+
+}
+
+p{
+  text-align: center;
+  font-family: 'Montserrat';
+  font-size: 2.5rem;
+}
+
+#title{
+  /* background-color: #fff78f; */
+  color: #e42c64;
+  background-image: linear-gradient();
+  background-image: linear-gradient(to bottom right,#fff78f, #9d92d1);
+}
+
+#features{
+  /* background-color: #e42c64; */
+
+  background-image: linear-gradient(70deg, #e42c64, #f078b2 ); e42c64
+  align-items: center;
+}
+
+#links{
+  position: relative;
+  padding: 5%;
+  align-items: center;
+  background-image: linear-gradient(-70deg,#fff78f, #e42c64);#fff78f
+
+}
+.middle-section{
+  /* background-color: #614ad3; */
+  text-align: center;
+  background-image: linear-gradient(45deg,#e42c64, #9d92d1);
+}
+
+/* Alternative Colour for middle section # 22b9ca*/
+
+.col-flag1{
+  transform: rotate(30deg);
+  width: 70%;
+  padding: 1.5rem;
+}
+
+.col-flag2{
+  transform: rotate(-30deg);
+  width: 70%;
+  padding: 1.5rem;
+}
+
+.abelcol{
+  width: 40%;
+  padding: 20px;
+}
+
+.info{
+  margin: 70px 70px;
+  font-size: 100px;
+}
+
+.profile_pic{
+  width: 40%;
+}
+
+.ticket{
+  width: 40%;
+}
+
+.linksim1 {
+
+  width: 20%;
+
+}
+
+.colsoc{
+  /* width: 40%; */
+}
+
+.row-links{
+  left: 50%;
+  margin-right: -50%;
+}
